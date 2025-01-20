@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Data Science and Web Development enthusiast.<br><br>👯 I’m looking to collaborate on ML, data visualization, and full-stack web development projects.<br><br>🤝 I’m looking for help with Advanced ML techniques, AWS deployment, and scaling web applications.<br><br>🌱 I’m currently learning Master’s in Data Science with IBM and full-stack development (HTML, CSS, JS, React, MongoDB, Node.js, Express.js).<br><br>💬 Ask me about EDA, ML models, deployment tools, and web development frameworks.<br><br>⚡ Fun fact Built a web app improving financial scores by 10% and reduced turnover by 15%!
+🔭 I’m currently a Data Science and Web Development enthusiast.<br>👯 I’m looking to collaborate on ML, data visualization, and full-stack web development projects.<br>🤝 I’m looking for help with Advanced ML techniques, AWS deployment, and scaling web applications.<br>🌱 I’m currently learning Master’s in Data Science with IBM and full-stack development (HTML, CSS, JS, React, MongoDB, Node.js, Express.js).<br>💬 Ask me about EDA, ML models, deployment tools, and web development frameworks.<br>⚡ Fun fact Built a web app improving financial scores by 10% and reduced turnover by 15%!
 
 
 ## 🌐 Socials:
