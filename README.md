@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 About Me:<br>🔭 I’m currently a Data Science and Web Development enthusiast.<br>👯 I’m looking to collaborate on ML, data visualization, and full-stack web development projects.<br>🤝 I’m looking for help with Advanced ML techniques, AWS deployment, and scaling web applications.<br>🌱 I’m currently learning Master’s in Data Science with IBM and full-stack web development.<br>💬 Ask me about EDA, ML models, deployment tools, and web development frameworks.<br>⚡ I have made multiple ml models like fake email prediction, loan approval, customer churn etc models with high accuracy
+🔭 I’m currently a Data Science and Web Development enthusiast.<br>👯 I’m looking to collaborate on ML, data visualization, and full-stack web development projects.<br>🤝 I’m looking for help with Advanced ML techniques, AWS deployment, and scaling web applications.<br>🌱 I’m currently learning Master’s in Data Science with IBM and full-stack web development.<br>💬 Ask me about EDA, ML models, deployment tools, and web development frameworks.<br>⚡ I have made multiple ml models like fake email prediction, loan approval, customer churn etc models with high accuracy
 
 
 ## 🌐 Socials:
